@@ -1,0 +1,24 @@
+[{
+  "Nombre":"Juan",
+  "Apellido_materno": "Gonzalez",
+  "Apellido_paterno": "Hernandez",
+  "Edad": 8
+},
+{
+  "Nombre": "Pedro",
+  "Apellido_materno":"Guzman",
+  "Apellido_paterno":"Corona",
+  "Edad": 9
+},
+{
+  "Nombre": "Maria",
+  "Apellido_materno":"Martinez",
+  "Apellido_paterno":"Rodriguez",
+  "Edad": 9
+},
+{
+  "Nombre": "Julia",
+  "Apellido_materno":"Moreno",
+  "Apellido_paterno":"Corona",
+  "Edad": 9
+}]
